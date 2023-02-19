@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: solja_boi
+  m_EditorClassIdentifier: Assembly-CSharp::MenuCharacter
+  key_name: character.solja_boi
+  team: 0
+  summonCost: 30
+  sprite: {fileID: -4269785942626206320, guid: 4ffbe096e8a332e42a1cd2e92106d84e, type: 3}
+  key_description: description.solja_boi
+  prefab: {fileID: 6087088448588579889, guid: 134bff41186bc5e4fb390c40994107cf, type: 3}
